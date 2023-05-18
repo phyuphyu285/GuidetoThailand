@@ -1,0 +1,83 @@
+
+.ourstory{
+  display:flex;
+  flex-wrap: wrap; 
+  align-items: center;
+  margin: 30px;
+  justify-content: center;
+}
+.ourstory .text{
+  flex-basis: 50%;
+  font-size:22px;
+  line-height: 25px;
+}
+.ourstory .image{
+  flex-basis: 50%;
+}
+
+.aboutus h2 {
+  font-size: 80px;
+  padding-top:12%;  
+  color:beige;
+  font-family: 'Gloock', serif;
+}
+
+.aboutus p2 {
+  color: rgb(241, 232, 232);
+  text-shadow: #212121 12px;
+  -webkit-text-stroke-color: #000000;
+  -webkit-text-stroke-width: 1px;
+}
+
+
+.row h3 {
+  font-size: 50px;
+  color:rgb(255, 255, 255);
+  font-family: 'Zilla Slab Highlight', cursive;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: rgb(255, 255, 255);
+  }
+ 
+ .card h1 {
+  font-family: 'DM Serif Display', serif;
+ }
+
+  .card p {
+  font-family: 'Ramabhadra', sans-serif;
+}
+
+
+  .aboutus {  
+    text-align: center;
+    font-size: 25px;
+    color: rgb(24, 24, 24);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 500px;
+    border: 1px;
+    background-image: url(Images/palmtrees.jpg);
+    background-repeat: no-repeat;
+    background-size: cover  ;    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+  
